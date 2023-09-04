@@ -1,6 +1,15 @@
 public class SmartTV {
 
 
+    /**
+     * Estas duas estrelinhas acima
+     * é para identificar que você
+     * pretende elaborar um comentário
+     * a nível de documentação.
+     * Que incrível !!!
+     */
+
+
     boolean ligada = false;
     int canal = 10;
     int volume = 1;
