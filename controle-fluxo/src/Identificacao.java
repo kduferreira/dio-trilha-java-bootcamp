@@ -7,18 +7,18 @@ public class Identificacao {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite o seu nome: ");
-        String nome = scanner.next();
+        String nome = scanner.nextLine();
         System.out.print("Digite o seu sexo (M/F): ");
-        String sexo = scanner.next();
+        String sexo = scanner.nextLine();
         System.out.print("Digite o seu estado civil: ");
-        String civil = scanner.next();
+        String civil = scanner.nextLine();
 
-        if(sexo == f && civil == casada ) {
+        if(sexo.equalsIgnoreCase("f")  && civil.equalsIgnoreCase("casada") ) {
             System.out.print("Quanto tempo de casada? (Anos) : ");
             Integer anos = scanner.nextInt();
         }
 
-        System.out.println("Ola " + nome + "Seu sexo: " + sexo + "Estado Civil: " + civil);
+        System.out.println(" Ola " + nome + "Seu sexo: " + sexo + " Estado Civil: " + civil);
         System.out.println();
     }
 }
