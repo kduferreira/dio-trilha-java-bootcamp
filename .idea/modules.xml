@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercoes/Exercoes.iml" filepath="$PROJECT_DIR$/Exercoes/Exercoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/RepeticoesLacos/RepeticoesLacos.iml" filepath="$PROJECT_DIR$/RepeticoesLacos/RepeticoesLacos.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartTV/SmartTV.iml" filepath="$PROJECT_DIR$/SmartTV/SmartTV.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-bootcamp.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-bootcamp.iml" />
