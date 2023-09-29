@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/SmartTV/SmartTV.iml" filepath="$PROJECT_DIR$/SmartTV/SmartTV.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java-api-2023/collections-java-api-2023.iml" filepath="$PROJECT_DIR$/collections-java-api-2023/collections-java-api-2023.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-bootcamp.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamAPI/streamAPI.iml" filepath="$PROJECT_DIR$/streamAPI/streamAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
     </modules>
   </component>
