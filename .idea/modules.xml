@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ModelagemIphone/Desafios.iml" filepath="$PROJECT_DIR$/ModelagemIphone/Desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafiosDIO/DesafiosDIO.iml" filepath="$PROJECT_DIR$/DesafiosDIO/DesafiosDIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercoes/Exercoes.iml" filepath="$PROJECT_DIR$/Exercoes/Exercoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/RepeticoesLacos/RepeticoesLacos.iml" filepath="$PROJECT_DIR$/RepeticoesLacos/RepeticoesLacos.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartTV/SmartTV.iml" filepath="$PROJECT_DIR$/SmartTV/SmartTV.iml" />
